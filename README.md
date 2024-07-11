@@ -305,7 +305,7 @@ Se non sai dove acquistare un drone, non preoccuparti. Ci sono tonnellate di neg
 Il [Sistema Informativo Geografico (GIS)](https://www.usgs.gov/faqs/what-geographic-information-system-gis) è un sistema informativo in grado di codificare, archiviare, trasformare, analizzare e visualizzare informazioni geospaziali.
 
 <p align="center">
- <img src="https://github.com/dji-drone/Guida-alla-Fotogrammetria/assets/45159366/d0068592-b28a-4442-955e-bccd793a4625">
+ <img src="https://it.wikipedia.org/wiki/Ortofotografia#/media/File:Ortofoto_Citt%C3%A0_Alta,_Rocca.jpg">
 </p>
 
 Credito immagine: [DJI Bergamo](https://djibg.it/)
@@ -345,7 +345,7 @@ Telerilevamento attivo: Questi strumenti operano con una propria fonte di emissi
 Telerilevamento passivo: Questi strumenti dipendono dall'energia naturale (raggi solari) riflessa dal bersaglio. Può essere applicato solo in presenza di luce solare adeguata, poiché senza di essa non ci sarebbe nulla da riflettere. Utilizza [sensori multispettrali](http://multispettrale.it/ "sensori multispettrali") o [sensori iperspettrali](http://iperspettrale.it "iperspettrali") che misurano la quantità acquisita con combinazioni di bande multiple. Queste combinazioni variano per numero di canali (due lunghezze d'onda e più) e per gamma di bande (visibile, IR, NIR, TIR, microonde).
 
 <p align="center">
- <img src="https://github.com/dji-drone/Guida-alla-Fotogrammetria/assets/45159366/b7aabdc2-5f15-4b3a-9caf-1d3368105086">
+ <img src="https://www.horusdynamics.com/wp-content/uploads/2015/10/post-processing-fotogrammetria-drone-20-300x225.png">
 </p>
 
 Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
