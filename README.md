@@ -129,9 +129,9 @@ Credito immagine: Cattura fotogrammetrica stereo. [Horus Dynamics](https://www.h
 
 <p align="center">
  <img src="https://www.horusdynamics.com/wp-content/uploads/2023/02/dji-zenmuse-p1.jpg">
-</br> ([Horus Dynamics](https://www.horusdynamics.com/) 
+ 
  * Fotocamera [DJI Zenmuse P1](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-p1/) full-frame da 45MP.
-</br>
+ 
  * Fotocamera [DJI Zenmuse H30](https://www.horusdynamics.com/vendita-droni/dji-h30/ "DJI Zenmuse H30") La serie Zenmuse H30 è una piattaforma multisensore di punta progettata per operare in tutte le condizioni atmosferiche. Integra cinque moduli principali: una fotocamera grandangolare, una fotocamera con zoom, una fotocamera termica a infraross
 </p>
 </br>
