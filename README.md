@@ -244,7 +244,7 @@ Ci sono diversi tipi di droni per tutte le situazioni, quindi assicurati di cons
  * **Droni compatti:** Questi droni sono appositamente progettati per immagini panoramiche e riprese paesaggistiche. La migliore caratteristica dei droni compatti è la capacità di cambiare il formato dell'immagine da JPEG a immagini RAW. Le immagini RAW hanno più dettagli e possono produrre una qualità delle immagini e dei video 4K. Ad esempio, il [DJI Inspire 2](https://www.dji.network/), che rientra nella categoria dei droni professionali, ha una velocità di oltre 60 miglia all'ora (97 chilometri all'ora) e una doppia batteria con una durata fino a 30 minuti. Usa questi droni nei luoghi in cui non puoi entrare e scattare foto che non devono essere ritagliate altrimenti potrebbe influenzare negativamente la qualità dell'immagine.
  
  ## Droni professionali
- 
+ ([DJI Delivery](https://www.dji.delivery/)
  Droni
  
 [DJI Enterprise](https://www.horusdynamics.com/vendita-droni/drone-prezzi/droni/dji-enterprise/ "DJI Enterprise")
