@@ -130,25 +130,25 @@ Credito immagine: Cattura fotogrammetrica stereo. [Horus Dynamics](https://www.h
 <p align="center">
  <img src="https://www.horusdynamics.com/wp-content/uploads/2023/02/dji-zenmuse-p1.jpg">
 </br>
-Fotocamera [DJI Zenmuse P1](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-p1/ "DJI Zenmuse P1") full-frame da 45MP.
+ * Fotocamera [DJI Zenmuse P1](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-p1/ "DJI Zenmuse P1") full-frame da 45MP.
 </br>
-Fotocamera [DJI Zenmuse H30](https://www.horusdynamics.com/vendita-droni/dji-h30/ "DJI Zenmuse H30") La serie Zenmuse H30 è una piattaforma multisensore di punta progettata per operare in tutte le condizioni atmosferiche. Integra cinque moduli principali: una fotocamera grandangolare, una fotocamera con zoom, una fotocamera termica a infraross
+ * Fotocamera [DJI Zenmuse H30](https://www.horusdynamics.com/vendita-droni/dji-h30/ "DJI Zenmuse H30") La serie Zenmuse H30 è una piattaforma multisensore di punta progettata per operare in tutte le condizioni atmosferiche. Integra cinque moduli principali: una fotocamera grandangolare, una fotocamera con zoom, una fotocamera termica a infraross
 </p>
 </br>
-Fotocamera [DJI Zenmuse H20](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-h20/") La serie Zenmuse H30 è una piattaforma multisensore di punta progettata per operare in tutte le condizioni atmosferiche. Integra cinque moduli principali: una fotocamera grandangolare, una fotocamera con zoom, una fotocamera termica a infraross
+ * Fotocamera [DJI Zenmuse H20](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-h20/") La serie Zenmuse H30 è una piattaforma multisensore di punta progettata per operare in tutte le condizioni atmosferiche. Integra cinque moduli principali: una fotocamera grandangolare, una fotocamera con zoom, una fotocamera termica a infraross
 </p>
  
 </p>
 #### [Termocamera](https://www.horusdynamics.com/vendita-droni/drone-prezzi/droni/dji-enterprise/payload-dji/termocamera/ "Termocamera") per fotogrammetria
 </br>
-Termocamera [DJI Zenmuse H30T](https://www.horusdynamics.com/vendita-droni/dji-h30t/ "DJI H30T") Termocamera avanzata.
+ * Termocamera [DJI Zenmuse H30T](https://www.horusdynamics.com/vendita-droni/dji-h30t/ "DJI H30T") Termocamera avanzata.
 </p>
 
 </br>
-Fotocamera [DJI Zenmuse H20N](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-h20n/ "DJI Zenmuse H20N") Le fotocamere zoom e grandangolari di DJI Zenmuse H20N sono dotate di sensori Starlight, che ne migliorano le prestazioni. Grazie alla combinazione di telecamera termica, zoom e telemetro laser, avrai un payload ibrido altamente adattabile in grado di gestire qualsiasi situazione. Combina questi con Matrice 300 e sarai in grado di vedere anche nell’oscurità.
+ * Fotocamera [DJI Zenmuse H20N](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-h20n/ "DJI Zenmuse H20N") Le fotocamere zoom e grandangolari di DJI Zenmuse H20N sono dotate di sensori Starlight, che ne migliorano le prestazioni. Grazie alla combinazione di telecamera termica, zoom e telemetro laser, avrai un payload ibrido altamente adattabile in grado di gestire qualsiasi situazione. Combina questi con Matrice 300 e sarai in grado di vedere anche nell’oscurità.
 </p>
 </br>
-Fotocamera [DJI Zenmuse H20T](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-h20t/ "DJI Zenmuse H20T") I carichi multisensore rielaborano il concetto di efficienza per ogni missione. L’intelligenza unica e il design integrato promettono immagini aeree senza precedenti per una vasta gamma di applicazioni industriali.
+ * Fotocamera [DJI Zenmuse H20T](https://www.horusdynamics.com/vendita-droni/dji-zenmuse-h20t/ "DJI Zenmuse H20T") I carichi multisensore rielaborano il concetto di efficienza per ogni missione. L’intelligenza unica e il design integrato promettono immagini aeree senza precedenti per una vasta gamma di applicazioni industriali.
 </p>
 
 
