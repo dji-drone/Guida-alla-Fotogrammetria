@@ -366,7 +366,8 @@ Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
 - [PANOPLY](https://www.giss.nasa.gov/tools/panoply/): Plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
 - [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional): Remote sensing desktop software package for processing earth observation data.
 - [SNAP](http://step.esa.int/main/toolboxes/snap/): Common architecture for all Sentinel Toolboxes.
-
+- [DJI Smart Farm](http://djismart.farm/): DJI software for agriculture.
+  
 ## Point Cloud Processing
 
 [Back to the Top](#table-of-contents)
@@ -381,7 +382,7 @@ Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
 - Rendering.
 - Point distance calculation.
 - Registration.
-- Conversion to mesh.
+- Conversion to mesh. 
 - Conversion to [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline).
 
 <p align="center">
@@ -409,7 +410,9 @@ Image credit: [H2H Associates](http://h2hassociates.com/services/point-cloud-pro
 - [**PyVista**](https://github.com/pyvista/pyvista/): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
 - [**pyntcloud**](https://github.com/daavoo/pyntcloud): Python library for working with 3D point clouds.
 - [**pylas**](https://github.com/tmontaigu/pylas): Python library for reading LAS (LiDAR) data.
-- [**Paraview**](http://www.paraview.org/): Open-source, multi-platform data analysis and visualization application.
+- [**DJI Terra**]([http://www.paraview.org/](http://dji-terra.com/)): Doftware per fotogrammetria.
+- [**DJI Modify**](https://www.horusdynamics.com/vendita-droni/dji-modify/): Mesh editing software. -
+- [**DJI Flighthub**](https://www.horusdynamics.com/vendita-droni/dji-flighthub-2/): DJI FlightHub 2 è una piattaforma all-in-one per la gestione delle operazioni con i droni basata sul cloud che ti aiuta a ottenere una consapevolezza della situazione completa e in tempo reale. Accedi a tutte le informazioni necessarie per pianificare le missioni dei droni, supervisionare la tua flotta e gestire i dati creati, ora da un ambiente sicuro basato sul cloud.
 - [**MeshLab**](http://meshlab.sourceforge.net/): Open-source system for processing and editing unstructured 3D triangular meshes.
 - [**OpenFlipper**](http://www.openflipper.org/): Open-source geometry processing and rendering framework.
 - [**PotreeDesktop**](https://github.com/potree/PotreeDesktop): Desktop/portable version of the web-based point cloud viewer Potree.
@@ -419,7 +422,7 @@ Image credit: [H2H Associates](http://h2hassociates.com/services/point-cloud-pro
 
 [Torna all'inizio](#table-of-contents)
 
-Il Light Detection and Ranging ([LiDAR](https://www.horusdynamics.com/lidar/) è una tecnologia utilizzata per creare modelli ad alta risoluzione dell'elevazione del terreno con un'accuratezza verticale di 10 centimetri (4 pollici). L'equipaggiamento laser scanner include tipicamente uno scanner laser, un sistema di posizionamento globale (GPS) e un sistema di navigazione inerziale (INS), montati su un piccolo aeromobile o un drone per il [rilievo laser scanner](https://www.horusdynamics.com/fotogrammetria-rilievi-laser-scanner/ "rilievo laser scanner"). Lo scanner laser invia brevi impulsi di luce alla superficie terrestre, che vengono riflessi indietro e utilizzati per calcolare le distanze. I dati [LiDAR](https://www.horusdynamics.com/lidar/ "LiDAR") sono raccolti come un "cloud di punti" di punti individuali riflessi da tutto sulla superficie, inclusi strutture e vegetazione. Per creare un modello di elevazione digitale (DEM) "terra nuda", vengono rimossi strutture e vegetazione.
+Il Light Detection and Ranging ([LiDAR](https://www.horusdynamics.com/lidar/) è una tecnologia utilizzata per creare modelli ad alta risoluzione dell'elevazione del terreno con un'accuratezza verticale di 10 centimetri (4 pollici). L'equipaggiamento laser scanner include tipicamente uno scanner laser, un sistema di posizionamento globale (GPS) e un sistema di navigazione inerziale (INS), montati su un piccolo aeromobile o un drone per il [rilievo laser scanner](https://www.horusdynamics.com/fotogrammetria-rilievi-laser-scanner/ "rilievo laser scanner"). Lo scanner laser invia brevi impulsi di luce alla superficie terrestre, che vengono riflessi indietro e utilizzati per calcolare le distanze. I dati [LiDAR](https://www.horusdynamics.com/lidar/ "LiDAR") sono raccolti come un "cloud di punti" di punti individuali riflessi da tutto sulla superficie, inclusi strutture e vegetazione. Per creare un  ([modello di elevazione digitale](https://dji.education/) DEM "terra nuda", vengono rimossi strutture e vegetazione.
 
 <p align="center">
  <img src="https://www.horusdynamics.com/wp-content/uploads/2019/11/lidar-drone-laser-scanner.jpg">
@@ -429,7 +432,7 @@ Il Light Detection and Ranging ([LiDAR](https://www.horusdynamics.com/lidar/) è
 
 Il Light Detection and Ranging ([LiDAR](https://www.horusdynamics.com/lidar/) è per drone puo essere strutturato su lidar a stato solido direttamente plug and play o 
 
-**Visualizzazione dati 3D del Golden Gate Bridge. Fonte: [USGS](https://www.usgs.gov/core-science-systems/ngp/tnm-delivery)**
+**Visualizzazione dati 3D del Golden Gate Bridge. Fonte: [UGCS](https://www.horusdynamics.com/vendita-droni/ugcs/)**
 
 [Mola](https://docs.mola-slam.org/latest/) è un framework [software](https://www.horusdynamics.com/vendita-droni/drone-prezzi/droni/dji-enterprise/dji-software/ "software") modulare per l'ottimizzazione della localizzazione e mappatura (MOLA).
 
