@@ -9,16 +9,7 @@
         Guida alla Fotogrammetria con Drone
     </h1>
 
-    <a href="https://github.com/dji-drone?tab=followers">
-        <img alt="followers" title="Follow me on Github for Updates"
-            src="https://custom-icon-badges.demolab.com/github/followers/dji-drone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
-    </a>
 
-    <img src="https://img.shields.io/maintenance/yes/2024?style=for-the-badge" alt="Maintenance">
-    <img src="https://img.shields.io/github/last-commit/dji-drone/Guida-alla-Fotogrammetria?style=for-the-badge" alt="Last-Commit">
-</body>
-
-</html>
 
          
 #### Guida completa alla Fotogrammetria inclusi applicazioni, librerie e strumenti per migliorare lo sviluppo della Fotogrammetria in modo più efficiente.
