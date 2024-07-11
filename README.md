@@ -139,7 +139,10 @@ Credito immagine: Cattura fotogrammetrica stereo. [Horus Dynamics](https://www.h
 </p>
  
 </p>
-#### [Termocamera](https://www.horusdynamics.com/vendita-droni/drone-prezzi/droni/dji-enterprise/payload-dji/termocamera/ "Termocamera") per fotogrammetria
+
+## Termocamera
+
+[Termocamera](https://www.horusdynamics.com/vendita-droni/drone-prezzi/droni/dji-enterprise/payload-dji/termocamera/ "Termocamera") per fotogrammetria
  
  * Termocamera [DJI Zenmuse H30T](https://www.horusdynamics.com/vendita-droni/dji-h30t/ "DJI H30T") Termocamera avanzata.
 </p>
