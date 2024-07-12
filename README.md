@@ -58,7 +58,7 @@
 8. [Sviluppo in R](https://github.com/dji-drone/Guida-alla-Fotogrammetria#r-development)
 
 
-# Getting Started with Photogrammetry 
+# Iniziare con la fotogrammetria 
 
 [Back to the Top](#table-of-contents)
 
