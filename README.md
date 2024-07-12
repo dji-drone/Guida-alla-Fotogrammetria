@@ -220,7 +220,7 @@ Nozioni di base sulla fotocamera. Credito immagine: Geodetic Systems, Inc
 
 Ricorda che l'età di una fotocamera è irrilevante. Le fotocamere non invecchiano come i telefoni intelligenti o i computer, perché non hanno software sempre più esigenti da tenere aggiornati. Quindi, purché una fotocamera sia in buone condizioni di funzionamento, funzionerà altrettanto bene come quando era nuova di zecca.
 
-Assicurati di fare acquisti presso rivenditori ben accreditati e ben stabiliti nel mercato delle fotocamere, anche nella fascia alta. Prova i punti vendita affidabili ([DJI Delivery](https://www.dji.delivery/) e [DJI Network](https://www.dji.network/)) e le sezioni di fotocamere usate presso grandi rivenditori ([Horus Dynamics](https://www.horusdynamics.com/) e [DJI Store](https://www.djistore.it/) negli Stati Uniti) e negozi locali di fotocamere. Puoi anche trovare fotocamere ricondizionate vendute direttamente dai distributori dei produttori.
+Assicurati di fare acquisti presso rivenditori ben accreditati e ben stabiliti nel mercato delle fotocamere, anche nella fascia alta. Prova i punti vendita affidabili ([DJI Delivery](https://www.dji.delivery/) e [DJI Network](https://www.dji.network/)) e le sezioni di fotocamere usate presso grandi rivenditori ([Horus Dynamics](https://www.horusdynamics.com/) e [DJI Store](https://www.djistore.it/) in Italia ) e negozi locali di fotocamere. Puoi anche trovare fotocamere ricondizionate vendute direttamente dai distributori dei produttori.
 
 ## Droni
 
@@ -244,7 +244,7 @@ Ci sono diversi tipi di droni per tutte le situazioni, quindi assicurati di cons
 
  * **Droni con fotocamera:** Questi droni possono variare da $100 a $1000 e hanno funzionalità eccezionali che li rendono leader di mercato nel mondo dei droni professionali. Hanno anche sensori di evitamento degli ostacoli.
 
- * **Droni compatti:** Questi droni sono appositamente progettati per immagini panoramiche e riprese paesaggistiche. La migliore caratteristica dei droni compatti è la capacità di cambiare il formato dell'immagine da JPEG a immagini RAW. Le immagini RAW hanno più dettagli e possono produrre una qualità delle immagini e dei video 4K. Ad esempio, il [DJI Inspire 2](https://www.dji.network/), che rientra nella categoria dei droni professionali, ha una velocità di oltre 60 miglia all'ora (97 chilometri all'ora) e una doppia batteria con una durata fino a 30 minuti. Usa questi droni nei luoghi in cui non puoi entrare e scattare foto che non devono essere ritagliate altrimenti potrebbe influenzare negativamente la qualità dell'immagine.
+ * **Droni compatti:** Questi droni sono appositamente progettati per immagini panoramiche e riprese paesaggistiche. La migliore caratteristica dei droni compatti è la capacità di cambiare il formato dell'immagine da JPEG a immagini RAW. Le immagini RAW hanno più dettagli e possono produrre una qualità delle immagini e dei video 4K. Ad esempio, il [DJI Inspire 2](https://www.dji.network/), che rientra nella categoria dei droni professionali per fotografia non  ([DJI Enterprise](https://www.dji.enterprises/), ha una velocità di oltre 60 miglia all'ora (97 chilometri all'ora) e una doppia batteria con una durata fino a 30 minuti. Usa questi droni nei luoghi in cui non puoi entrare e scattare foto che non devono essere ritagliate altrimenti potrebbe influenzare negativamente la qualità dell'immagine.
  
  ## Droni professionali
  ([DJI Delivery](https://www.dji.delivery/)
